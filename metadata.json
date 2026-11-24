@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Hands-Free Assistant",
+  "description": "Control your Android phone hands-free with Hindi, English, and Hinglish voice commands powered by Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
